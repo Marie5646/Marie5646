@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asia
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java , Javascript and Spring
-- 📫 How to reach me ...
+- 📫 How to reach me asia.autrey0@gmail.com
 
 <!---
 Marie5646/Marie5646 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
