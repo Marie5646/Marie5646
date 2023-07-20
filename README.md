@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asia
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java ,Javascript, MYSQL and Spring
+- 🌱 I’m currently learning React
 - 📫 How to reach me asia.autrey0@gmail.com
 - 👤 Checkout my portfolio! https://marie5646.github.io/
 <!---
